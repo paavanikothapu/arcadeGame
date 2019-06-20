@@ -28,7 +28,7 @@ https://github.com/udacity/frontend-nanodegree-arcade-game
       app.js, endine.js, resource.js, index.html, readme.md, images folder.
 . I had open total the code given in files, After observing all the files I concluded what I need to do in order to implement the project.
 . I observed, that most of the modifications will takes place in app.js.
-## Some Modifications are done by me.
+## I had modified the code by following the below steps.
 . While developing this project I had taken two characters mainly Gamer and sprite.
 . The main theme of this project is the Gamer moves up, right, left whenever the enemysprite
  touches , the Gamer gets killed ,then the game will restart.
