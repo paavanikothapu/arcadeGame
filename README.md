@@ -1,5 +1,6 @@
 # arcadeGame
 # Classic Arcade Game Clone Project
+I enjoyed a lot while playing the game. I learned a lot about js while developing this game.
 
 ## Table of Contents
 
